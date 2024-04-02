@@ -1,0 +1,17 @@
+accession number,treatment condition,treatment time,replicate number
+GSM5725213,Control,none,A
+GSM5725214,Control,none,B
+GSM5725215,Control,none,C
+GSM5725216,Control,none,D
+GSM5725217,Camptothecin,24-48 hpf (gastrulation),A
+GSM5725218,Camptothecin,24-48 hpf (gastrulation),B
+GSM5725219,Camptothecin,24-48 hpf (gastrulation),C
+GSM5725220,Camptothecin,48-72 hpf (neurulation),A
+GSM5725221,Camptothecin,48-72 hpf (neurulation),B
+GSM5725222,Camptothecin,48-72 hpf (neurulation),C
+GSM5725223,Oolaparib,2-24 hpf (blastula),A
+GSM5725224,Oolaparib,2-24 hpf (blastula),B
+GSM5725225,Oolaparib,2-24 hpf (blastula),C
+GSM5725226,Oolaparib,24-48 hpf (gastrulation),A
+GSM5725227,Oolaparib,24-48 hpf (gastrulation),B
+GSM5725228,Oolaparib,24-48 hpf (gastrulation),C
